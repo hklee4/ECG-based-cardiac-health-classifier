@@ -14,12 +14,12 @@ The code in '4.Load_model_and_Inference.py' file loads test imagesets and hdf5 f
 
 # Signal data 
 
-'Normal_MIT-BIH' is from ‘MIT-BIH Normal Sinus Rhythm Database’
+'Normal_MIT-BIH.csv' is from ‘MIT-BIH Normal Sinus Rhythm Database’
 
-'AF_MIT-BIH' is from ‘MIT-BIH Atrial Fibrillation Database’
+'AF_MIT-BIH.csv' is from ‘MIT-BIH Atrial Fibrillation Database’
 
-'ST_MIT-BIH' is from ‘European ST-T Database’
+'ST_MIT-BIH.csv' is from ‘European ST-T Database’
 
-'VF_MIT-BIH' is from ‘MIT-BIH Malignant Ventricular Ectopy Database’
+'VF_MIT-BIH.csv' is from ‘MIT-BIH Malignant Ventricular Ectopy Database’
 
-'Normal_Clinical' is from our wearable device
+'Normal_Clinical.csv' is from our wearable device
