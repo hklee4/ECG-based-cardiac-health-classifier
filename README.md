@@ -1,7 +1,7 @@
 # Code Description
 
-This repository contains the codes and filtered data to generate the main results described in our paper 
-"Bio-inspired Monolithically Interlocked Permeable Skin-Adhesive Electrodes for Wireless Vital Diagnostics"
+This repository contains the codes and filtered data to generate the main results described in our paper paper
+,submitted in in Nature Materials. 
 
 The code in '1.peak_detection_algorithm.py' file perform peak detection by loading RAW_DATA files to obtain the SDNN value.
 
